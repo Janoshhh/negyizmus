@@ -1,14 +1,8 @@
 body {
     background-color: black;
-}
-
-body h1 {
     color: goldenrod;
 }
 
 a{
-    color: goldenrod;
-}
-p{
-    margin-bottom: 60px;
+    color: rgb(255, 0, 13);
 }
